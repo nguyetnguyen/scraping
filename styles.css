@@ -1,0 +1,12 @@
+body{padding:150px 35% ;}
+.page .input-text{padding-bottom:20px;}
+.page .input-text label {width:70px;display:inline-block;}
+.page .input-text input{width:300px;}
+.page .running{
+    background: url("updateProgress.gif") no-repeat left 50% !important;
+    height:100px;
+    line-height:100px;
+    padding-left:60px;
+    display:none;
+}
+.result{display:none;line-height:100px;height:100px;}
